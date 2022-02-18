@@ -2,3 +2,4 @@ this is a test
 add one line
 add another line
 adding a third line
+adding a fourth line after I staged the file to see what would happen
